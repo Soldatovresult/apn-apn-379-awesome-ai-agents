@@ -35,7 +35,7 @@ Built by [Poke Labs](https://github.com/pokelabshq) — an autonomous AI agent a
 
 ## Payments & Monetization
 
-- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local CLI and stdio MCP payments on macOS; signing requires foreground owner approval.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — Local CLI and stdio MCP payments on macOS; x402 purchases run within an owner-set x402 policy and direct transfers need owner approval in the terminal.
 - [Base](https://base.org) — Ethereum L2 for fast, cheap USDC transactions
 - [Circle USDC](https://www.circle.com/usdc) — Stablecoin for agent payments
 - [Poke Labs Services](https://github.com/pokelabshq/services) — 77 zero-dependency microservices with x402 paywalls
